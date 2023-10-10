@@ -1,0 +1,14 @@
+black==23.9.1
+click==8.1.7
+ffmpeg==1.4
+mypy-extensions==1.0.0
+numpy==1.26.0
+opencv-python==4.8.1.78
+packaging==23.2
+pathspec==0.11.2
+platformdirs==3.11.0
+pytube==15.0.0
+slugify==0.0.1
+tomli==2.0.1
+tqdm==4.66.1
+typing_extensions==4.8.0
